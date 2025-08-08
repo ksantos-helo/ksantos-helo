@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ksantos-helo/ksantos-helo/blob/main/html-css-javascript.jpg" alt="Banner" width="70%"> 
+  <img src="https://github.com/ksantos-helo/ksantos-helo/blob/main/anime.jpg" alt="Banner Anime" height="300px">
+  <img src="https://github.com/ksantos-helo/ksantos-helo/blob/main/html-css-javascript.jpg" alt="Banner HTML CSS JS" height="300px">
 </p>
 
 
