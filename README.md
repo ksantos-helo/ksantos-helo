@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/ksantos-helo/ksantos-helo/blob/main/html-css-javascript.jpg" alt="Banner" width="70%"> 
+</p>
+
+
 ## 👋 Sobre mim
 
 🎯 **Especialista em BI & Analytics** com forte atuação em **Gestão Estratégica de Dados**, **Governança** e **Cultura Data-Driven**. Atualmente no **Grupo Boticário**, lidero iniciativas que combinam tecnologia, estratégia e eficiência para gerar valor de negócio por meio de dados.
